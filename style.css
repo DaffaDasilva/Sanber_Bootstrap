@@ -1,0 +1,64 @@
+.inner-addon {
+    position: relative;
+}
+
+.inner-addon .glyphicon {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+.right-addon .glyphicon {
+    right: 0px;
+}
+
+.right-addon input {
+    padding-right: 30px;
+}
+
+.navbartop {
+    padding: 5px;
+    background: linear-gradient(to top, #ffffff -4%, #0099ff 100%);
+}
+
+.li-top{
+    float: right;
+}
+
+.ul-top {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.li-top a {
+    display: block;
+    text-align: center;
+    padding: 0 5px;
+    text-decoration: none;
+    color: gray;
+}
+
+.jumbotron-image {
+    background-image: url('img/pattern.jpg');
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.bg-navbar{
+    background: linear-gradient(to bottom, #ffffff -4%, #0099ff 100%);
+}
+
+.f-12{
+    font-size: 12px;
+}
+
+.fitur-bar{
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.border-radius-5{
+    border-radius: 5px;
+}
